@@ -1,0 +1,68 @@
+AXNEST — sivuston päivitys 11.10.2026
+
+SISÄLTÖ
+
+Tämä paketti sisältää päivitetyn nelikielisen sivuston alkuperäisessä
+React/TanStack-projektissa sekä valmiin, kevyen GitHub Pages -version.
+Kielet: englanti, espanja, saksa ja suomi.
+
+GITHUB PAGES
+
+1. Kopioi github-pages-kansion SISÄLTÖ axnest-site-repositorion juureen.
+   index.html, style.css, app.js, CNAME, .nojekyll, fonts/ ja partners/
+   tulevat suoraan repositorion juureen. Myös muut HTML- ja kuvatiedostot
+   kuuluvat samaan tasoon.
+2. Settings → Pages → Source: Deploy from a branch.
+3. Branch: main. Folder: / (root). Tallenna.
+4. Custom domain: axnest.com. Ota Enforce HTTPS käyttöön, kun se on saatavilla.
+
+GitHub Pages -versio ei tarvitse npm-asennusta, build-vaihetta tai
+sovelluspalvelinta. Kaikki neljä kielisivua sisältävät tekstinsä valmiina.
+Kielilinkit toimivat myös ilman JavaScriptiä. Pieni app.js muistaa kielivalinnan,
+tukee aiempia ?lang=fi-osoitteita ja pysäyttää animaation taustavälilehdellä.
+
+LÄHDEKOODIN JATKOMUOKKAUS
+
+Sivun sisältö: src/lib/copy.ts
+Yhteinen sivurakenne: src/components/axnest-site-view.tsx
+Reactin kielivalinta: src/components/axnest-site.tsx
+Ulkoasu ja valoviiva: src/styles.css
+Staattisen version generointi: npm run export:static
+Projektin tarkistus: npm run typecheck
+Projektin tuotantokooste: npm run build
+Riippuvuuksien asennus: npm ci
+
+Staattinen vienti käyttää samoja tekstejä, sivurakennetta ja tyylejä kuin
+React-versio. Luo github-pages-kansio uudelleen vientikomennolla aina
+lähdetekstien tai ulkoasun muuttamisen jälkeen.
+
+MUUTOKSET
+
+- Sovelluksen oma tumma väripaletti ja IBM Plex -fontit.
+- Sama 2 px sininen valoviiva: 22 % leveys, 1,8 s suuntaansa, pehmeä
+  edestakainen liike. Sijoitus yläpalkin alareunassa.
+- Reduced motion -asetuksella viiva pysyy paikallaan.
+- Selkeämpi otsikkohierarkia, yhtenäiset paneelit ja välit.
+- Kielivalinnoille vähintään 44 px kosketuskohteet ja näkyvä valittu kieli.
+- Kaikkien neljän kielen painikkeet ja saavutettavuustekstit lokalisoitu.
+- Katteen säilymisestä annetut ehdottomat lupaukset muutettu täsmällisiksi.
+- Sivun neljä pääkohtaa, alkuperäinen tarkoitus, yhteystiedot ja
+  UpCloud/AMD-palvelintiedot säilytetty.
+- Paikalliset fontit pienennetty WOFF2-muotoon neljän kielen merkeillä.
+- Korjattu alkuperäisestä paketista puuttuneet package-lock-riippuvuustiedot.
+  Lukittujen pakettien versioita ei vaihdettu.
+
+TARKISTUKSET
+
+- npm run typecheck: hyväksytty.
+- npm run build: hyväksytty.
+- npm ci --ignore-scripts --dry-run: hyväksytty.
+- Staattinen vienti: kaikki neljä kielisivua muodostuvat.
+- HTML: kielilinkit, paikalliset resurssit, otsikot ja ankkurit tarkistettu.
+- Kielivalinta: 12 tapausta tarkistettu JavaScript-ajoilla, mm. estetty
+  localStorage, kieliparametri, selaimen kieli ja alikansiojulkaisu.
+- GitHub Pages -version koko noin 188 kB; englanninkielisen ensilatauksen
+  tiedostot fontteineen noin 100 kB ennen HTTP-pakkausta.
+
+Visuaalista selaintestiä tai tuotannon julkaisua ei ajettu tässä ympäristössä.
+Tämä toimitus on tarkistettu lähdekoodi ja staattinen julkaisupaketti.

@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/?lang=fi",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "AXNEST — Teollinen nestaus. Tarjouksesta tuotantoon.",
+      "hasCanvas": false,
+      "bodyTextLen": 6658,
+      "bodyTextHash": "b4fd986509f94cac9c0e2a6781c00d2fb19b175881c5767f91cdeb591d46098f",
+      "bodyTextPrefix": "TEOLLINEN NESTAUS Työnkulku Tuonti Nestaus Kustannus Palvelu EN ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/fi-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "AXNEST — Teollinen nestaus. Tarjouksesta tuotantoon.",
+      "hasCanvas": false,
+      "bodyTextLen": 6631,
+      "bodyTextHash": "c6f2bd0f618a767c15263a72eb80a27c634ca75377c3ac3b7183b404c9cd7437",
+      "bodyTextPrefix": "Avaa Avaa AXNEST-sovelluksen uuteen välilehteen Työnkulku Tuonti",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/fi-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/fi-preview.json"
+}

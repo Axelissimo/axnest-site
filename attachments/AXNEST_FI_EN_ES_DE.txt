@@ -1,0 +1,113 @@
+AXNEST – SUOMI / ENGLISH / ESPAÑOL / DEUTSCH
+
+SUOMI
+=====
+
+AXNEST – teollinen nestaus myynnistä tuotantoon
+
+AXNEST on käyttäjäystävällinen teollinen nestausohjelmisto koko organisaation käyttöön. Se tukee koko toimitusketjun kattavaa työnkulkua tarjouspyynnöstä tuotantoon ja yhdistää nestauksen, kustannuslaskennan ja tarjouslaskennan yhteiseksi kokonaisuudeksi. Myynti ja tuotanto hyödyntävät samoja osia, materiaalitietoja ja leikkuusuunnitelmia.
+
+Kannattava työ alkaa realistisesta tarjouksesta. Kun osat nestataan jo tarjousvaiheessa, materiaalitarve voidaan laskea todellisen sijoittelun perusteella. Hinnoittelu perustuu silloin suunnitelmaan siitä, miten osat valmistetaan, eikä pelkästään niiden pinta-alaan tai arvioituun materiaalimenekkiin.
+
+Sama nestaussuunnitelma voidaan siirtää tarjouksesta tuotantoon. Tämä auttaa ehkäisemään tilanteita, joissa työ näyttää myyntivaiheessa kannattavalta mutta tuotannon suurempi materiaalinkulutus syö katteen. Myynti saa luotettavamman perustan hinnoittelulle, ja tuotanto saa käyttöönsä suunnitelman, johon tarjous on perustunut.
+
+Tarjouspyynnöstä leikattaviksi osiksi
+
+AXNESTin tekoälyavusteinen tuonti nopeuttaa laajojen tarjouspyyntöjen käsittelyä. Se auttaa tunnistamaan aineistosta tuotteiden mitat ja muodostamaan niistä osia sekä uudelleenkäytettäviä osakirjastoja. Myynti voi siirtyä tarjouspyynnöstä nestaukseen ja laskentaan vähemmällä manuaalisella tiedonsyötöllä. Tunnistetut tiedot voidaan tarkistaa ennen niiden käyttöä tarjouksen ja tuotannon pohjana.
+
+Myös olemassa olevien leikkausgeometrioiden hyödyntäminen on tehty helpoksi. DXF-tiedostojen ja muiden tuettujen vektoriaineistojen automaattinen siivous ja korjaus vähentävät geometrian käsityötä ja auttavat valmistelemaan tuodut osat nestausta varten.
+
+AXNESTin sisäisillä piirtotyökaluilla osia voidaan luoda ja muokata suoraan ohjelmistossa. Tekstipohjainen osien määritys ja laajat standardikirjastot nopeuttavat toistuvien tuotteiden valmistelua. Ohjelmistossa voidaan muodostaa myös vaativampia tiivistegeometrioita, kuten välirivallisia lämmönvaihtimen tiivisteitä.
+
+Yhteinen työväline koko organisaatiolle
+
+AXNEST tuo myynnin, projektihenkilöstön ja tuotannon saman tiedon äärelle. Tallennettuja osia ja kirjastoja voidaan hyödyntää uudelleen, mikä vähentää päällekkäistä työtä ja helpottaa siirtymistä tarjousvaiheesta valmistukseen.
+
+Ammattikäyttöön suunniteltu AXNEST toimii pilvipalveluna Oracle Cloudin ja AWS:n infrastruktuuria hyödyntäen. Sen lähtökohtana on tehdä teollisesta nestauksesta ja siihen perustuvasta laskennasta helposti hyödynnettävä osa koko organisaation päivittäistä työtä.
+
+AXNEST auttaa hinnoittelemaan sen, mitä tuotannossa aiotaan tehdä – ja valmistamaan sen, mitä asiakkaalle on tarjottu.
+
+
+ENGLISH
+=======
+
+AXNEST – industrial nesting from sales to production
+
+AXNEST is user-friendly industrial nesting software designed for the entire organization. It supports an end-to-end workflow across the supply chain, from requests for quotation to production, bringing nesting, cost calculation and quotation preparation together. Sales and production work with the same parts, material data and cutting layouts.
+
+A profitable job starts with a realistic quotation. By nesting parts at the quotation stage, material requirements can be calculated from an actual layout. Pricing is then based on a plan for how the parts will be manufactured, rather than solely on their surface area or estimated material consumption.
+
+The same nesting layout can be carried through from quotation to production. This helps prevent jobs that appear profitable at the sales stage from losing their margin through higher material consumption on the shop floor. Sales gains a more reliable basis for pricing, while production receives the plan behind the quotation.
+
+From quotation requests to parts ready for cutting
+
+AXNEST’s AI-assisted import speeds up the processing of large requests for quotation. It helps identify product dimensions in the source material and turn them into parts and reusable part libraries. Sales teams can move from an enquiry to nesting and costing with less manual data entry. Extracted information can be reviewed before it is used as the basis for quotations and production.
+
+Existing cutting geometry is also easy to use. Automatic cleanup and repair of DXF files and other supported vector formats reduce manual geometry preparation and help make imported parts ready for nesting.
+
+AXNEST’s built-in drawing tools allow parts to be created and edited directly within the software. Text-based part definition and extensive standard part libraries simplify the preparation of recurring products. More complex gasket geometries can also be created, including heat exchanger gaskets with divider bars.
+
+One tool for the entire organization
+
+AXNEST gives sales, project teams and production a shared basis for their work. Saved parts and libraries can be reused, reducing duplicate work and making the transition from quotation to manufacturing easier.
+
+Designed for professional use, AXNEST is a cloud-based solution that uses Oracle Cloud and AWS infrastructure. Its purpose is to make industrial nesting and layout-based costing an accessible part of everyday work across the organization.
+
+AXNEST helps you price what you plan to produce – and produce what you have quoted.
+
+
+ESPAÑOL
+=======
+
+AXNEST – nesting industrial desde ventas hasta producción
+
+AXNEST es un software de nesting industrial fácil de usar, diseñado para toda la organización. Facilita un flujo de trabajo integral a lo largo de la cadena de suministro, desde la solicitud de cotización hasta la producción, y reúne la optimización de corte, el cálculo de costos y la preparación de cotizaciones. Ventas y producción utilizan las mismas piezas, datos de materiales y planos de corte.
+
+Un trabajo rentable comienza con una cotización realista. Al realizar el nesting durante la preparación de la oferta, las necesidades de material pueden calcularse a partir de una distribución concreta de las piezas. Así, el precio se basa en un plan de fabricación y no únicamente en la superficie de las piezas o en una estimación del consumo de material.
+
+La misma distribución de corte puede pasar de la cotización a producción. Esto ayuda a evitar que un trabajo aparentemente rentable en la etapa comercial pierda su margen por un consumo de material mayor al previsto en planta. Ventas obtiene una base más confiable para fijar precios, y producción recibe el plan utilizado para elaborar la cotización.
+
+De la solicitud de cotización a las piezas listas para cortar
+
+La importación asistida por inteligencia artificial de AXNEST agiliza el procesamiento de solicitudes de cotización extensas. Ayuda a identificar las dimensiones de los productos en la documentación de origen y a convertirlas en piezas y bibliotecas reutilizables. El equipo comercial puede pasar de la solicitud al nesting y al cálculo de costos con menos ingreso manual de datos. La información identificada puede revisarse antes de utilizarse como base para cotizar y producir.
+
+AXNEST también facilita el aprovechamiento de geometrías de corte existentes. La limpieza y reparación automática de archivos DXF y otros formatos vectoriales compatibles reducen el trabajo manual de preparación y ayudan a dejar las piezas importadas listas para el nesting.
+
+Sus herramientas de dibujo integradas permiten crear y modificar piezas directamente en el programa. La definición de piezas mediante texto y las amplias bibliotecas de productos normalizados agilizan la preparación de trabajos recurrentes. También es posible crear geometrías de juntas más complejas, como juntas para intercambiadores de calor con nervaduras divisorias.
+
+Una herramienta compartida por toda la organización
+
+AXNEST permite que ventas, los equipos de proyectos y producción trabajen sobre una misma base de información. Las piezas y bibliotecas guardadas pueden reutilizarse, lo que reduce la duplicación de tareas y facilita el paso de la cotización a la fabricación.
+
+Diseñado para uso profesional, AXNEST funciona en la nube utilizando infraestructura de Oracle Cloud y AWS. Su objetivo es integrar el nesting industrial y el cálculo de costos basado en la distribución de corte en el trabajo diario de toda la organización.
+
+AXNEST ayuda a cotizar lo que se va a producir y a producir lo que se ha cotizado.
+
+
+DEUTSCH
+=======
+
+AXNEST – industrielle Verschachtelung vom Vertrieb bis zur Fertigung
+
+AXNEST ist eine benutzerfreundliche industrielle Verschachtelungssoftware für das gesamte Unternehmen. Sie unterstützt einen durchgängigen Workflow entlang der Lieferkette – von der Angebotsanfrage bis zur Fertigung – und verbindet Verschachtelung, Kostenkalkulation und Angebotserstellung. Vertrieb und Fertigung arbeiten dabei mit denselben Teilen, Materialdaten und Schnittplänen.
+
+Ein rentabler Auftrag beginnt mit einem realistisch kalkulierten Angebot. Werden die Teile bereits in der Angebotsphase verschachtelt, lässt sich der Materialbedarf anhand eines konkreten Belegungsplans berechnen. Die Preisgestaltung basiert damit auf der geplanten Fertigung und nicht allein auf der Fläche der Teile oder einem geschätzten Materialverbrauch.
+
+Derselbe Verschachtelungsplan kann vom Angebot in die Fertigung übernommen werden. Das hilft zu verhindern, dass ein zunächst rentabel erscheinender Auftrag durch einen höheren Materialverbrauch in der Fertigung seine Marge verliert. Der Vertrieb erhält eine verlässlichere Kalkulationsgrundlage, und die Fertigung arbeitet mit dem Plan, auf dem das Angebot beruht.
+
+Von der Angebotsanfrage zu schneidfertigen Teilen
+
+Der KI-gestützte Import von AXNEST beschleunigt die Bearbeitung umfangreicher Angebotsanfragen. Er hilft dabei, Produktabmessungen aus den Ausgangsdaten zu erkennen und daraus Teile sowie wiederverwendbare Teilebibliotheken zu erstellen. So gelangt der Vertrieb mit weniger manueller Dateneingabe von der Anfrage zur Verschachtelung und Kalkulation. Die erkannten Angaben können geprüft werden, bevor sie als Grundlage für Angebot und Fertigung dienen.
+
+Auch vorhandene Schnittgeometrien lassen sich einfach nutzen. Die automatische Bereinigung und Reparatur von DXF-Dateien und anderen unterstützten Vektorformaten reduziert die manuelle Nachbearbeitung und hilft, importierte Teile für die Verschachtelung vorzubereiten.
+
+Mit den integrierten Zeichenwerkzeugen können Teile direkt in AXNEST erstellt und bearbeitet werden. Die textbasierte Teiledefinition und umfangreiche Bibliotheken für Normteile erleichtern die Vorbereitung wiederkehrender Produkte. Auch anspruchsvollere Dichtungsgeometrien lassen sich erstellen, beispielsweise Wärmetauscherdichtungen mit Trennstegen.
+
+Ein gemeinsames Werkzeug für das gesamte Unternehmen
+
+AXNEST schafft eine gemeinsame Informationsgrundlage für Vertrieb, Projektteams und Fertigung. Gespeicherte Teile und Bibliotheken können wiederverwendet werden. Das reduziert doppelte Arbeit und erleichtert den Übergang vom Angebot zur Herstellung.
+
+AXNEST wurde für den professionellen Einsatz entwickelt und nutzt als cloudbasierte Lösung die Infrastruktur von Oracle Cloud und AWS. Ziel ist es, industrielle Verschachtelung und die darauf aufbauende Kostenkalkulation zu einem leicht zugänglichen Bestandteil der täglichen Arbeit im gesamten Unternehmen zu machen.
+
+AXNEST hilft Ihnen, das zu kalkulieren, was Sie fertigen wollen – und das zu fertigen, was Sie angeboten haben.
+

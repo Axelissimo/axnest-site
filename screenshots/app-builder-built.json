@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "AXNEST — Industrial nesting. From quotation to production.",
+      "hasCanvas": false,
+      "bodyTextLen": 6622,
+      "bodyTextHash": "baba7831da5a3c23c379f36469b18abb5e2243e13ec859116b5df9fcd0049d91",
+      "bodyTextPrefix": "INDUSTRIAL NESTING Workflow Import Nesting Costing Hosting EN FI",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "AXNEST — Industrial nesting. From quotation to production.",
+      "hasCanvas": false,
+      "bodyTextLen": 6591,
+      "bodyTextHash": "5fc66a35057ae4957f95ba61912554d7c71de8499b69105e56d94560547b8921",
+      "bodyTextPrefix": "Open Opens the AXNEST application in a new tab Workflow Import N",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}
